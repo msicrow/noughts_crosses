@@ -54,8 +54,6 @@ while True:
     o_count = 0
     blank_count = 0
 
-    # if x_count - o_count == 1:
-
     for i in cells:
         if i == "X":
             x_count += 1
